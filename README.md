@@ -1,1 +1,1 @@
-This is to develop a Tourist Cottage Booking website.
+This code is to develop a Tourist Cottage Booking website.
